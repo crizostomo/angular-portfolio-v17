@@ -1,6 +1,10 @@
-# AngularCoursePortfolio
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
+<h1 align="center">
+  <img src="https://vidafullstack.com.br/wp-content/uploads/2020/07/angular.png" alt="" width="150">
+  <br>
+    Practical Project: Portfplio
+  <br>
+  https://crizostomo.github.io/angular-portfolio-v17/browser/
+</h1>
 
 ## Development server
 
@@ -25,3 +29,26 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Access GhPages
+
+<strong>Link:</strong> https://crizostomo.github.io/angular-portfolio-v17/browser/
+
+## How to deploy your code on ghPages
+
+<strong>Add to your project:</strong> ng add angular-cli-ghpages
+<br>
+
+<strong>How to deploy:</strong> ng deploy --base-href https://YOUR_GITHUB_PROFILE.github.io/YOUR_GITHUB_REPO/browser/
+
+<strong>Example:</strong> ng deploy --base-href https://crizostomo.github.io/angular-portfolio-v17/browser/
+
+OR
+
+https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+
+---
+
+Thank you!! [Linkedin](https://www.linkedin.com/in/diogo-almeida-49aa095a/)
+
+
